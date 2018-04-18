@@ -1,4 +1,6 @@
-# Yard_OpenGL
+# Yard_OpenGL and 动态测试
+> 动态测试 is just a demo to simulate water wave
+ 
 # 使用OpenGL函数库实现的一个三维庭院
 
 > 源代码参考自：[《OpenGL 房子》](https://blog.csdn.net/xws117/article/details/42342345)

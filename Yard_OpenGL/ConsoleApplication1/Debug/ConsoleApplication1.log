@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/4/18 18:10:31。
+     1>项目“E:\Document\2017研一\研一上\计算机图形学\图形学_171674李娜\ConsoleApplication1-v4.0\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt house.cpp
+         house.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Document\2017研一\研一上\计算机图形学\图形学_171674李娜\ConsoleApplication1-v4.0\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Document\2017研一\研一上\计算机图形学\图形学_171674李娜\ConsoleApplication1-v4.0\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Document\2017研一\研一上\计算机图形学\图形学_171674李娜\ConsoleApplication1-v4.0\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\house.obj
+         ConsoleApplication1.vcxproj -> E:\Document\2017研一\研一上\计算机图形学\图形学_171674李娜\ConsoleApplication1-v4.0\Debug\ConsoleApplication1.exe
+     1>已完成生成项目“E:\Document\2017研一\研一上\计算机图形学\图形学_171674李娜\ConsoleApplication1-v4.0\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.92
